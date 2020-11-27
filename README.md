@@ -9,7 +9,7 @@ I am **Minkyung Lee**, a Ph.D student in Intelligent Networking Lab.
 ### 🎉 Research Area
 * EdgeAI
     * Distributed & Light-weigthed & Optimization
-### 🐱‍🏍 Interest
+### 👩🏻‍💻 Interest
 * Recommendation System
 * Machine Learning Operation
 * Distributed & Parallel System
