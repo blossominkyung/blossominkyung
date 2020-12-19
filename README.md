@@ -14,6 +14,4 @@ I am **Minkyung Lee**, a Ph.D student in Intelligent Networking Lab.
 * Machine Learning Operation
 * Distributed & Parallel System
 * Optimization Methods
-* Intelligent Edge
-    * Docker & Kubernetes
-    * Distributed & Parallel system
+* Docker & k8s
