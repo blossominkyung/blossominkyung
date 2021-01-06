@@ -1,6 +1,6 @@
 ﻿### Hi there 🙋‍♀️
 
-I am **Minkyung Lee**, a Ph.D student in Intelligent Networking Lab.
+I am **Minkyung Lee**, a Ph.D ABD in Intelligent Networking Lab.
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://blossominkyung.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/blossominkyung/)
@@ -14,4 +14,4 @@ I am **Minkyung Lee**, a Ph.D student in Intelligent Networking Lab.
 * Machine Learning Operation
 * Distributed & Parallel System
 * Optimization Methods
-* Docker & k8s
+* Cloud computing
