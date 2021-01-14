@@ -8,10 +8,10 @@ I am **Minkyung Lee**, a Ph.D ABD in Intelligent Networking Lab.
 
 ### 🎉 Research Area
 * EdgeAI
-    * Distributed & Light-weigthed & Optimization
+    * Optimization & distributed offloading 
+    
 ### 👩🏻‍💻 Interest
 * Recommendation System
+* Graph Neural Network
+* Reinforcement Learning
 * Machine Learning Operation
-* Distributed & Parallel System
-* Optimization Methods
-* Cloud computing
