@@ -12,3 +12,5 @@ I am **Minkyung Lee**, a AI Research Engineer especially on Recommender System.
 ### 👩🏻‍💻 Interest
 * Graph Neural Network
 * Machine Learning Operation
+
+### 모든 리소스가 아직 비공개입니다.
