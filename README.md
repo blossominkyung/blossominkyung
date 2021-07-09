@@ -7,10 +7,11 @@ I am **Minkyung Lee**, a AI Research Engineer especially on Recommender System.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:blossominkyung@gmail.com)
 
 ### 🎉 Work Area
-* Recommendation System
+* Recommender System
     
 ### 👩🏻‍💻 Interest
 * Graph Neural Network
+* Natural Language Processing
 * Machine Learning Operation
 
 ### 모든 리소스가 아직 비공개입니다.
