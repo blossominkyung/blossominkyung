@@ -9,9 +9,8 @@ I am **Minkyung Lee**, as a Phd.candidate in Kyung Hee University, Republic of K
 ### 🎉 Work Area
 * Machine Learning Engineer(2021.07 ~ present)
     
-### 👩🏻‍💻 Interest
+### 👩🏻‍💻 Research Area
 * Graph Neural Network
-* Natural Language Processing
-* Deep Learning
-
+* Federated Leaerning
+* Transformer
 
