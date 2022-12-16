@@ -7,10 +7,11 @@ I am **Minkyung Lee**, as a Phd.candidate in Kyung Hee University, Republic of K
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:blossominkyung@gmail.com)
 
 ### 🎉 Work Area
-* Machine Learning Engineer(2021.07 ~ present)
+* AI Engineer on a Recommender System area(July, 2021 ~ November, 2022)
     
 ### 👩🏻‍💻 Research Area
 * Graph Neural Network
-* Federated Leaerning
 * Transformer
+* Federated Leaerning
+* Recommendation System
 
