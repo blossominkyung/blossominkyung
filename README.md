@@ -1,5 +1,3 @@
 ﻿### Hi there,
- 
-I love solving problems in real-world and doing research to find better solutions  
-with data-driven machine learning algorithm💭🧠.  
-My research topics are Reinforcement Learning and deep learning🤖.
+
+I love AI Robotics, especially interested on autonomous agents to get complex behaviors with deep learning and reinforcement learning.
